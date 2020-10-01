@@ -1,0 +1,31 @@
+D:\Desktop\ESILV\TD ESILV\TD Programmation C sharp\Semestre 2\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csprojResolveAssemblyReference.cache
+D:\Desktop\ESILV\TD ESILV\TD Programmation C sharp\Semestre 2\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csproj.CoreCompileInputs.cache
+D:\Desktop\ESILV\TD ESILV\TD Programmation C sharp\Semestre 2\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe.config
+D:\Desktop\ESILV\TD ESILV\TD Programmation C sharp\Semestre 2\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe
+D:\Desktop\ESILV\TD ESILV\TD Programmation C sharp\Semestre 2\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.pdb
+D:\Desktop\ESILV\TD ESILV\TD Programmation C sharp\Semestre 2\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.exe
+D:\Desktop\ESILV\TD ESILV\TD Programmation C sharp\Semestre 2\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.pdb
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe.config
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.pdb
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csprojResolveAssemblyReference.cache
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csproj.CoreCompileInputs.cache
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.exe
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.pdb
+D:\Desktop\ESILV\Cours\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\EsilvGui.dll
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe.config
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.pdb
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\EsilvGui.dll
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csprojResolveAssemblyReference.cache
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csproj.CoreCompileInputs.cache
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.exe
+D:\Desktop\ESILV\Cours\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.pdb
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe.config
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.exe
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\TD 6 et 7.pdb
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\bin\Debug\EsilvGui.dll
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csprojResolveAssemblyReference.cache
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.csproj.CoreCompileInputs.cache
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.exe
+D:\Stéphan\OneDrive - De Vinci\Année 1\S2\Cours C#\TD Programmation C#\TD 6 et 7\TD 6 et 7\obj\Debug\TD 6 et 7.pdb
